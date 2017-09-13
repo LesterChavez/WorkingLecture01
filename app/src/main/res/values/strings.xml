@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhyMe</string>
+
+    <string name="title_activity_splashscreen">splashscreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Prog3210_Lecture_1">Prog3210Lecture1</string>
+</resources>
